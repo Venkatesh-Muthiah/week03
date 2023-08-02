@@ -73,7 +73,7 @@ public class DuplicateLead {
 		if (expectedTitle1.equals(actualTitle1)) {
 			System.out.println("First expected result page is displayed");
 		} else {
-			System.out.println("Second expected result page is not displayed");
+			System.out.println("First expected result page is not displayed");
 		}
 
 //		17. Click on Duplicate button
